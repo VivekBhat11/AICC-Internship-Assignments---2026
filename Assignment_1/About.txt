@@ -1,0 +1,7 @@
+7th Feb 2026 - Create a strong code for password authentication using python. 
+
+This program is a basic password authentication system developed using Python. It checks whether the password entered by the user matches a predefined password stored in the program. If the entered password is correct, access is granted; otherwise, access is denied.
+
+In an improved version, the program allows a limited number of attempts (for example, three tries) to enter the correct password. If the user fails to enter the correct password within the given attempts, the system blocks access.
+
+This assignment helps in understanding basic Python concepts such as **variables, input/output, conditional statements (if-else), and loops**. It also introduces the idea of simple security mechanisms used in real-world applications.

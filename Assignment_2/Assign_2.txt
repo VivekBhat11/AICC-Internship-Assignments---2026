@@ -1,0 +1,38 @@
+Assignment (09/02/2026)
+Assignment Name: AI Around Me
+
+Description:
+AI is used in many daily applications. Below are 10 real-life examples along with how Machine Learning (ML) works behind them.
+
+
+1. Google Maps
+   ML analyzes traffic data to suggest the fastest routes and predict travel time.
+
+2. YouTube
+   ML recommends videos based on your watch history and preferences.
+
+3. Instagram
+   ML shows posts and reels based on your likes, follows, and interactions.
+
+4. Amazon
+   ML suggests products based on your browsing and purchase behavior.
+
+5. Netflix
+   ML recommends movies and shows based on your viewing patterns.
+
+6. Google Assistant
+   ML understands voice commands using speech recognition and NLP.
+
+7. Gmail
+   ML filters spam emails and suggests smart replies.
+
+8. Spotify
+   ML creates playlists based on your listening habits.
+
+9. Flipkart
+   ML recommends products and shows personalized deals.
+
+10. Google Photos
+    ML recognizes faces and objects to organize photos automatically.
+
+---

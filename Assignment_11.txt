@@ -1,0 +1,34 @@
+
+
+ Sample Dataset 
+
+| Study Hours | Marks |
+| ----------- | ----- |
+| 1           | 35    |
+| 2           | 40    |
+| 3           | 50    |
+| 4           | 60    |
+| 5           | 70    |
+| 6           | 78    |
+| 7           | 85    |
+| 8           | 90    |
+
+Features & Labels
+
+ Feature (Input): Study Hours
+ Label (Output): Marks
+
+
+Relationship Prediction
+
+As the number of study hours increases, the marks also increase.
+This shows a positive linear relationship between study hours and marks.
+
+---
+Simple Description
+
+Description:
+In this assignment, a dataset is created showing the relationship between study hours and marks. Study hours act as the feature (input), and marks act as the label (output). By observing the data, we can predict that more study hours lead to higher marks, indicating a positive relationship. This forms the basis of simple machine learning models like linear regression.
+
+---
+

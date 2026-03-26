@@ -1,0 +1,32 @@
+Assignment (19/03/2026)
+
+Assignment Name : Mini Project Proposal
+Description : Submit a 1-page proposal with problem, dataset, algorithm, expected output.
+
+
+------------
+
+Mini Project Proposal: House Price Prediction System
+
+1. Problem Statement:
+Buying or selling a house requires understanding its correct price. This project aims to predict house prices based on key features like area, number of rooms, and location.
+
+---
+
+2. Dataset:
+The dataset will include details such as house area (sq ft), number of bedrooms, bathrooms, and price. Data can be collected from online real estate sources or sample datasets.
+
+---
+
+3. Algorithm:
+Linear Regression will be used as it helps in predicting continuous values like house prices. It finds the relationship between input features and output.
+
+---
+
+4. Expected Output:
+The model will predict the price of a house when new input values (like area and rooms) are given. The output will help users estimate property value.
+
+---
+
+5. Conclusion:
+This project demonstrates how machine learning can be used in real-life applications like real estate price prediction.

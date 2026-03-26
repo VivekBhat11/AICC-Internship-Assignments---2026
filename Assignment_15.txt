@@ -1,0 +1,25 @@
+Assignment (07/03/2026)
+
+Assignment Name : KNN in Real Life
+Description : Explain Netflix-like recommendations using KNN and create a small similarity example.
+
+---------
+
+How Netflix Uses KNN
+Compares your watch history with other users
+Finds users with similar interests
+Recommends movies/shows they liked
+
+Example:
+If you watch action movies, KNN finds users who also watch action and suggests similar content.
+
+Small Similarity Example
+User	Movies     Liked
+A	   Action     Comedy
+B	   Action     Thriller
+C	   Romance    Drama
+
+User A is more similar to B (both like Action)
+User A is less similar to C
+
+So, A will get recommendations similar to B

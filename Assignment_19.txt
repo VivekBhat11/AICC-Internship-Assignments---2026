@@ -1,0 +1,56 @@
+Assignment Name: Text Challenges
+
+Description:
+This assignment focuses on identifying issues in messy text data like slang, emojis, and typos, and understanding how preprocessing improves text quality for machine learning.
+
+---
+
+20 Messy Sentences (Sample)
+
+1. hey brooo what's up 😂
+2. I luv this movie sooo much
+3. gr8 work 👍 keep it up
+4. omg this is amazng
+5. lol that was funny 😂😂
+6. I cant waait for tmrw
+7. thx for ur help 😊
+8. wat r u doing rn?
+9. this food is yummyyy 😋
+10. gud morning everyone
+11. bday party was lit 🔥
+12. I am sooo tired 😴
+13. plz send me the file asap
+14. this is not gud at all
+15. I will cm soon
+16. haha that joke was cool 😂
+17. I dnt like this
+18. ur the best ❤️
+19. lets meet tmr
+20. this is awsomee
+
+---
+
+Issues Identified
+
+ Slang: bro, luv, gr8, omg, lol, thx, ur
+ Emojis: 😂 😊 🔥 😴 ❤️ 😋
+ Typos: amazng, waait, gud, awsomee
+ Short forms: tmrw, rn, asap
+
+---
+
+Preprocessing Needed
+
+1. Convert text to lowercase
+2. Remove emojis
+3. Correct spelling mistakes
+4. Expand short forms (e.g., “ur” → “your”)
+5. Remove extra letters (sooo → so)
+6. Remove unnecessary symbols
+
+---
+
+ 🧠 Conclusion
+
+Text preprocessing makes data clean and structured, which improves the performance of NLP models.
+

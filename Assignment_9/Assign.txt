@@ -1,0 +1,33 @@
+"""
+Assignment (02/03/2026)
+
+Assignment Name : ML Idea Generator
+Description : Suggest ML problems in college, healthcare, shopping and describe input → output.
+
+Machine Learning can solve many real-world problems. Below are ideas from different domains with input and output.
+
+"""
+
+1. College – Student Performance Prediction
+Input: Attendance, marks, study hours
+Output: Predicted final grade or pass/fail
+
+🏥 2. Healthcare – Disease Prediction
+Input: Symptoms, age, medical history
+Output: Possible disease or risk level
+
+🛒 3. Shopping – Product Recommendation System
+Input: User search history, past purchases
+Output: Recommended products
+
+🎓 4. College – Placement Prediction
+Input: Skills, CGPA, projects
+Output: Chances of getting placed
+
+🏥 5. Healthcare – Appointment Scheduling
+Input: Patient data, doctor availability
+Output: Best time slot suggestion
+
+🛒 6. Shopping – Price Prediction
+Input: Product demand, season, trends
+Output: Optimal product price
